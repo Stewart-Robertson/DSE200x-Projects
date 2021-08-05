@@ -1,6 +1,13 @@
 # DSE200x-Projects
 Two projects done when first learning python for data science via UC San Diego on EdX
 
+The projects use
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+
 Project 1
 
 This one - CO2, Urbanisation, and GDP - was a simple "mini-project" undertaken in 2020. The aim was to use a publicly available dataset, structure some questions
